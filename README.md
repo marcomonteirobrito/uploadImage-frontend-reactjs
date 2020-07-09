@@ -20,7 +20,6 @@
 
 <h3>Backend:</h3>
 <a href="https://github.com/marcomonteirobrito/uploadImage-backend-nodejs" target="_blank">Repositório backend</a>
----
 
 <h4>Dúvidas entre em contato pelo <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
 
