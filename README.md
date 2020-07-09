@@ -16,12 +16,12 @@
 <h3>MongoDB<img src="imagens/mongodb.png" alt="mongodb" height="18"> </h3> 
 
 <h3>Link do projeto em produção:</h3>
-<a href="https://uploadimage-frontend-reactjs.herokuapp.com/" target="blank">Upload Image no Heroku</a>
+<a href="https://uploadimage-frontend-reactjs.herokuapp.com/" target="_blank">Upload Image no Heroku</a>
 
 <h3>Backend:</h3>
-<a href="https://github.com/marcomonteirobrito/uploadImage-backend-nodejs" target="blank">Repositório backend</a>
+<a href="https://github.com/marcomonteirobrito/uploadImage-backend-nodejs" target="_blank">Repositório backend</a>
 ---
 
-<h4>Dúvidas entre em contato pelo <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="blank">Linkedin</a> </h4>
+<h4>Dúvidas entre em contato pelo <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/marcomonteirobrito" target="blank">marcomonteirobrito</a> </h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/marcomonteirobrito" target="_blank">marcomonteirobrito</a> </h4>
